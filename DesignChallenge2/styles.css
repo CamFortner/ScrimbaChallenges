@@ -33,3 +33,21 @@ span {
     background: #75A2B8;
     border-radius: 50%;
 }
+
+.container {
+    width: 90%;
+}
+
+.card {
+
+    background: #2d3d43;
+    padding: 1.8em;
+}
+
+
+h3 {
+    font-size: large;
+    text-transform: uppercase;
+    color: rgb(89, 127, 216);
+    margin: 4 0 .3em;
+}

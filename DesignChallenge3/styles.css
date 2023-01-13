@@ -89,18 +89,6 @@ input[type=submit] {
     color: black;
 }
 
-
-/*
-    Your fixes below!
-    
-    Use these colors codes: 
-    (1) #1C2022
-    (2) #9D9D9D
-    (3) #2B3337
-    (4) #FF01FF
-    (5) white
-*/
-
 body {
     background: auto;
     background-color: #9D9D9D;

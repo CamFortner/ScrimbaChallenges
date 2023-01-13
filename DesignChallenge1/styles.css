@@ -34,22 +34,6 @@ p.desc {
     font-size: .9em;
 }
 
-/* 
-   Use the following properties
-   to fix the alignment and white
-   space issues on the rulesets
-   below this comment.
-/*    
-   margin, padding, text-align
-   
-*/
-body {
-
-}
-.content {
-
-}
-
 p.date {
     margin-left: 10px;
 
